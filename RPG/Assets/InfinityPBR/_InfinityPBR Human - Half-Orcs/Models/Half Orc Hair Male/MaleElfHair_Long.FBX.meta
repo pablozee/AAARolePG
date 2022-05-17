@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 13794522464a4425b9d98e65d34f2e54
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base HumanHair05
+    100002: Base HumanHair06
+    100004: Base HumanHair07
+    100006: Base HumanHair08
+    100008: Base HumanHair09
+    100010: Base HumanHair10
+    100012: Base HumanHair11
+    100014: Base HumanHair12
+    100016: Base HumanHair13
+    100018: Base HumanHair14
+    100020: Base HumanHair15
+    100022: Base HumanHair16
+    100024: Base HumanHair17
+    100026: Base HumanHair18
+    100028: Base HumanHair20
+    100030: Base HumanHair21
+    100032: Base HumanHair22
+    100034: Base HumanHair23
+    100036: Base HumanHair24
+    100038: Base HumanHair25
+    100040: Base HumanHair26
+    100042: Base HumanHair27
+    100044: Base HumanHair28
+    100046: Base HumanHair29
+    100048: Base HumanHair30
+    100050: Base HumanHair31
+    100052: Base HumanHair32
+    100054: Base HumanHair33
+    100056: Base HumanHair34
+    100058: Base HumanHair35
+    100060: Base HumanHair36
+    100062: Base HumanHair37
+    100064: Base HumanHair38
+    100066: Base HumanHair40
+    100068: Base HumanHair41
+    100070: Base HumanHair42
+    100072: Base HumanHair43
+    100074: Base HumanHair44
+    100076: Base HumanHair45
+    100078: Base HumanHair46
+    100080: Base HumanHair47
+    100082: Base HumanHair48
+    100084: Base HumanHair49
+    100086: Base HumanHead
+    100088: Base HumanLCalf
+    100090: Base HumanLCollarbone
+    100092: Base HumanLDigit11
+    100094: Base HumanLDigit12
+    100096: Base HumanLDigit13
+    100098: Base HumanLDigit21
+    100100: Base HumanLDigit22
+    100102: Base HumanLDigit23
+    100104: Base HumanLDigit31
+    100106: Base HumanLDigit32
+    100108: Base HumanLDigit33
+    100110: Base HumanLDigit41
+    100112: Base HumanLDigit42
+    100114: Base HumanLDigit43
+    100116: Base HumanLDigit51
+    100118: Base HumanLDigit52
+    100120: Base HumanLDigit53
+    100122: Base HumanLFoot
+    100124: Base HumanLForearm1
+    100126: Base HumanLForearm2
+    100128: Base HumanLForearm3
+    100130: Base HumanLPalm
+    100132: Base HumanLThigh1
+    100134: Base HumanLThigh2
+    100136: Base HumanLToe11
+    100138: Base HumanLToe12
+    100140: Base HumanLUpperarm1
+    100142: Base HumanLUpperarm2
+    100144: Base HumanNeck
+    100146: Base HumanPelvis
+    100148: Base HumanPonytail1
+    100150: Base HumanPonytail10
+    100152: Base HumanPonytail2
+    100154: Base HumanPonytail3
+    100156: Base HumanPonytail4
+    100158: Base HumanPonytail5
+    100160: Base HumanPonytail6
+    100162: Base HumanPonytail7
+    100164: Base HumanPonytail8
+    100166: Base HumanPonytail9
+    100168: Base HumanRCalf
+    100170: Base HumanRCollarbone
+    100172: Base HumanRDigit11
+    100174: Base HumanRDigit12
+    100176: Base HumanRDigit13
+    100178: Base HumanRDigit21
+    100180: Base HumanRDigit22
+    100182: Base HumanRDigit23
+    100184: Base HumanRDigit31
+    100186: Base HumanRDigit32
+    100188: Base HumanRDigit33
+    100190: Base HumanRDigit41
+    100192: Base HumanRDigit42
+    100194: Base HumanRDigit43
+    100196: Base HumanRDigit51
+    100198: Base HumanRDigit52
+    100200: Base HumanRDigit53
+    100202: Base HumanRFoot
+    100204: Base HumanRForearm1
+    100206: Base HumanRForearm2
+    100208: Base HumanRForearm3
+    100210: Base HumanRibcage
+    100212: Base HumanRPalm
+    100214: Base HumanRThigh1
+    100216: Base HumanRThigh2
+    100218: Base HumanRToe11
+    100220: Base HumanRToe12
+    100222: Base HumanRUpperarm1
+    100224: Base HumanRUpperarm2
+    100226: Base HumanSpine1
+    100228: Base HumanSpine2
+    100230: Base HumanSpine3
+    100232: BoneRoot
+    100234: ElfHairLong
+    100236: //RootNode
+    400000: Base HumanHair05
+    400002: Base HumanHair06
+    400004: Base HumanHair07
+    400006: Base HumanHair08
+    400008: Base HumanHair09
+    400010: Base HumanHair10
+    400012: Base HumanHair11
+    400014: Base HumanHair12
+    400016: Base HumanHair13
+    400018: Base HumanHair14
+    400020: Base HumanHair15
+    400022: Base HumanHair16
+    400024: Base HumanHair17
+    400026: Base HumanHair18
+    400028: Base HumanHair20
+    400030: Base HumanHair21
+    400032: Base HumanHair22
+    400034: Base HumanHair23
+    400036: Base HumanHair24
+    400038: Base HumanHair25
+    400040: Base HumanHair26
+    400042: Base HumanHair27
+    400044: Base HumanHair28
+    400046: Base HumanHair29
+    400048: Base HumanHair30
+    400050: Base HumanHair31
+    400052: Base HumanHair32
+    400054: Base HumanHair33
+    400056: Base HumanHair34
+    400058: Base HumanHair35
+    400060: Base HumanHair36
+    400062: Base HumanHair37
+    400064: Base HumanHair38
+    400066: Base HumanHair40
+    400068: Base HumanHair41
+    400070: Base HumanHair42
+    400072: Base HumanHair43
+    400074: Base HumanHair44
+    400076: Base HumanHair45
+    400078: Base HumanHair46
+    400080: Base HumanHair47
+    400082: Base HumanHair48
+    400084: Base HumanHair49
+    400086: Base HumanHead
+    400088: Base HumanLCalf
+    400090: Base HumanLCollarbone
+    400092: Base HumanLDigit11
+    400094: Base HumanLDigit12
+    400096: Base HumanLDigit13
+    400098: Base HumanLDigit21
+    400100: Base HumanLDigit22
+    400102: Base HumanLDigit23
+    400104: Base HumanLDigit31
+    400106: Base HumanLDigit32
+    400108: Base HumanLDigit33
+    400110: Base HumanLDigit41
+    400112: Base HumanLDigit42
+    400114: Base HumanLDigit43
+    400116: Base HumanLDigit51
+    400118: Base HumanLDigit52
+    400120: Base HumanLDigit53
+    400122: Base HumanLFoot
+    400124: Base HumanLForearm1
+    400126: Base HumanLForearm2
+    400128: Base HumanLForearm3
+    400130: Base HumanLPalm
+    400132: Base HumanLThigh1
+    400134: Base HumanLThigh2
+    400136: Base HumanLToe11
+    400138: Base HumanLToe12
+    400140: Base HumanLUpperarm1
+    400142: Base HumanLUpperarm2
+    400144: Base HumanNeck
+    400146: Base HumanPelvis
+    400148: Base HumanPonytail1
+    400150: Base HumanPonytail10
+    400152: Base HumanPonytail2
+    400154: Base HumanPonytail3
+    400156: Base HumanPonytail4
+    400158: Base HumanPonytail5
+    400160: Base HumanPonytail6
+    400162: Base HumanPonytail7
+    400164: Base HumanPonytail8
+    400166: Base HumanPonytail9
+    400168: Base HumanRCalf
+    400170: Base HumanRCollarbone
+    400172: Base HumanRDigit11
+    400174: Base HumanRDigit12
+    400176: Base HumanRDigit13
+    400178: Base HumanRDigit21
+    400180: Base HumanRDigit22
+    400182: Base HumanRDigit23
+    400184: Base HumanRDigit31
+    400186: Base HumanRDigit32
+    400188: Base HumanRDigit33
+    400190: Base HumanRDigit41
+    400192: Base HumanRDigit42
+    400194: Base HumanRDigit43
+    400196: Base HumanRDigit51
+    400198: Base HumanRDigit52
+    400200: Base HumanRDigit53
+    400202: Base HumanRFoot
+    400204: Base HumanRForearm1
+    400206: Base HumanRForearm2
+    400208: Base HumanRForearm3
+    400210: Base HumanRibcage
+    400212: Base HumanRPalm
+    400214: Base HumanRThigh1
+    400216: Base HumanRThigh2
+    400218: Base HumanRToe11
+    400220: Base HumanRToe12
+    400222: Base HumanRUpperarm1
+    400224: Base HumanRUpperarm2
+    400226: Base HumanSpine1
+    400228: Base HumanSpine2
+    400230: Base HumanSpine3
+    400232: BoneRoot
+    400234: ElfHairLong
+    400236: //RootNode
+    2100000: NewHair
+    4300000: ElfHairLong
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: ElfHairLong
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
